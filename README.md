@@ -139,10 +139,4 @@ Status      : GOOD
 
 ## Author
 
-Sangeeth Kallepu**
-
-
-
-### Alert Notification
-
-Add a screenshot of the Gmail alert or Blynk notification here.
+Sangeeth Kallepu
